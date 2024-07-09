@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajeev Kumar
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Javascript, express, Node.js, React.
-- 💞️ I’m looking to collaborate on some cool projects involving Javascript, React & Node.js.
+- 🌱 I work with Python, Java and Go and I’m currently learning Javascript, express, Node.js, React.
+- 💞️ I’m looking to collaborate on some cool projects involving Python, Java, Javascript, React & Node.js.
 - 📫 You can reach out to me at rajeevnita29@gmail.com
 
 <!---
